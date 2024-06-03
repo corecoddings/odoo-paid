@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Janki-f
-- 👀 I’m interested in website development
-- 🌱 I’m currently fresher (BCA)
-- 💞️ I’m looking to collaborate on development
+- 👀 Odoo Developer ( Intermidiate )
+- 🌱 Graduation : MCA 
 - 📫 to reach me - fofandijanki@gmail.com
 
 
